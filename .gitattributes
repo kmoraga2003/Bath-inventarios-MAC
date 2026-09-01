@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Configuración de lenguajes para GitHub Linguist
+*.sh linguist-language=Shell
+*.command linguist-language=Shell
+*.applescript linguist-language=AppleScript
